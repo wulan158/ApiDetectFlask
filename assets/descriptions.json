@@ -1,0 +1,37 @@
+{
+  "Alpukat_Aligator": {
+    "nama_ilmiah": "Persea americana 'Alligator'",
+    "asal": "Amerika Tengah dan Selatan, diperkenalkan di Florida",
+    "karakteristik": "Bentuk buah panjang seperti aligator, kulit hijau tebal dan kasar, daging kuning mentega, biji kecil. Ukuran besar, bisa mencapai 1 kg per buah. Rasa manis creamy.",
+    "musim_panen": "Sepanjang tahun, puncak musim biasanya di musim hujan",
+    "keunggulan": "Ukuran buah besar, daging tebal, rasa enak, cocok untuk konsumsi langsung atau olahan."
+  },
+  "Alpukat_Kendil": {
+    "nama_ilmiah": "Persea americana 'Kendil'",
+    "asal": "Varietas lokal Indonesia",
+    "karakteristik": "Bentuk buah bulat memanjang seperti kendil (guci), kulit hijau cerah, daging tebal kuning kehijauan, biji sedang. Rasa manis gurih, tekstur pulen.",
+    "musim_panen": "Sepanjang tahun, tergantung lokasi",
+    "keunggulan": "Adaptif di berbagai iklim Indonesia, produktivitas tinggi, rasa disukai pasar lokal."
+  },
+  "Alpukat_Madu": {
+    "nama_ilmiah": "Persea americana 'Madu'",
+    "asal": "Varietas lokal Indonesia",
+    "karakteristik": "Bentuk buah bulat hingga oval, kulit hijau mulus, daging kuning cerah, biji kecil. Rasa sangat manis dengan sedikit aroma madu, tekstur lembut.",
+    "musim_panen": "Sepanjang tahun",
+    "keunggulan": "Rasa manis yang khas, sangat digemari, cocok untuk jus atau dimakan langsung."
+  },
+  "Alpukat_SW01": {
+    "nama_ilmiah": "Persea americana 'SW01'",
+    "asal": "Varietas unggul hasil persilangan",
+    "karakteristik": "Bentuk buah oval, kulit hijau gelap, daging tebal kuning kehijauan, biji kecil. Rasa creamy, sedikit manis, tekstur pulen. Ukuran sedang hingga besar.",
+    "musim_panen": "Sepanjang tahun",
+    "keunggulan": "Produktivitas tinggi, tahan penyakit, kualitas buah konsisten, cocok untuk budidaya komersial."
+  },
+  "Alpukat_Super": {
+    "nama_ilmiah": "Persea americana 'Super'",
+    "asal": "Varietas lokal atau hibrida unggul",
+    "karakteristik": "Bentuk buah bervariasi (oval-pir), kulit hijau gelap, daging kuning tebal, biji relatif kecil. Rasa manis gurih, tekstur lembut dan tidak berserat. Ukuran besar.",
+    "musim_panen": "Sepanjang tahun",
+    "keunggulan": "Ukuran buah besar, daging tebal, rasa premium, banyak dicari di pasaran."
+  }
+}
