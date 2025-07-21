@@ -1,7 +1,3 @@
-Berikut adalah **README** dalam bahasa Indonesia untuk aplikasi Flask Anda, yang mencakup langkah-langkah instalasi, cara menggunakan Ngrok, dokumentasi API, dan cara menggunakannya.
-
----
-
 # Aplikasi Flask - Klasifikasi Daun Alpukat
 
 Aplikasi berbasis Flask ini digunakan untuk mengklasifikasikan daun alpukat menggunakan model yang sudah dilatih (TensorFlow Lite). Aplikasi ini menyediakan beberapa endpoint API untuk melakukan prediksi, mengelola riwayat prediksi, dan lainnya.
