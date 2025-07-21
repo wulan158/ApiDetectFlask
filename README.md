@@ -30,13 +30,7 @@ Pertama, clone repository ini ke lokal Anda dan masuk ke folder aplikasi:
 cd nama_folder_aplikasi
 ```
 
-### Langkah 2: Membuat Virtual Environment
-
-Disarankan untuk membuat environment virtual guna mengelola dependensi:
-
-```bash
-python app.py
-```
+### Langkah 2: Membuat Virtual Environment (optional)
 
 ### Langkah 3: Menginstal Dependensi
 
